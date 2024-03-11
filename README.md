@@ -7,4 +7,10 @@ Daftar tugas / branch
 6. Tugas-php
 7. Tugas-finalProject
 Daftar perintah GIT
-...
+1. git checkout -b nama_branch
+2. nano nama_file.txt 
+3. git add nama_file.txt
+4. git commit -m "Pesan"
+5. git checkout main
+6. git merge nama_branch
+7. git push  
